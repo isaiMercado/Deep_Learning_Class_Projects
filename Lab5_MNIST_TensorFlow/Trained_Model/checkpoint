@@ -1,2 +1,0 @@
-model_checkpoint_path: "mnist_liner_classifier_model.ckpt"
-all_model_checkpoint_paths: "mnist_liner_classifier_model.ckpt"
