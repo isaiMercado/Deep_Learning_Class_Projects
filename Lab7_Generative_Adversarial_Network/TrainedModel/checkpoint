@@ -1,0 +1,2 @@
+model_checkpoint_path: "/fslhome/misaie/tensorflow/generative_adversarial_network/TrainedModel/weights"
+all_model_checkpoint_paths: "/fslhome/misaie/tensorflow/generative_adversarial_network/TrainedModel/weights"
