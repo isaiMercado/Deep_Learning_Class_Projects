@@ -2,6 +2,11 @@ from tensorflow.python.ops.rnn_cell import RNNCell
 import tensorflow as tf
 import numpy as np
  
+ 
+#
+# This website helped me to understand GRU and LSTM Neurons
+# http://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html
+#
 class MyGRUNeuron( RNNCell ):
  
     def __init__( self, neurons_count ):
