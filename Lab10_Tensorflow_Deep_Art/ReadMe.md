@@ -1,0 +1,9 @@
+![](https://github.com/isaiMercado/Deep_Learning_Class_Projects/blob/master/Lab10_Tensorflow_Deep_Art/input_images/person1.jpg)
+</br>
+![](https://github.com/isaiMercado/Deep_Learning_Class_Projects/blob/master/Lab10_Tensorflow_Deep_Art/input_images/picasso.jpg)
+</br>
+![](https://github.com/isaiMercado/Deep_Learning_Class_Projects/blob/master/Lab10_Tensorflow_Deep_Art/output_images/params_from_website_person_small_lr_2_random_image.jpg)
+</br>
+![](https://github.com/isaiMercado/Deep_Learning_Class_Projects/blob/master/Lab10_Tensorflow_Deep_Art/output_images/params_from_website_person_small_lr_10_content_image.jpg)
+</br>
+![](https://github.com/isaiMercado/Deep_Learning_Class_Projects/blob/master/Lab10_Tensorflow_Deep_Art/output_images/params_from_website_person_big_lr_10_random_image.jpg)
